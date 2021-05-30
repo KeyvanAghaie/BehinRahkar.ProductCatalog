@@ -1,0 +1,15 @@
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\BAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\DAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\bin\Debug\net5.0\DAL.pdb
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.csprojAssemblyReference.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.csproj.CopyComplete
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\BAL\obj\Debug\net5.0\BAL.pdb

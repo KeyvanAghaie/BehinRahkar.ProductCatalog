@@ -1,0 +1,15 @@
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\DAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Road\Job\BehinRahkar\BehinRahkar.WebAPI\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
